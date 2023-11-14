@@ -8,7 +8,7 @@
 <hr>
 
 <h3>Languages,Technologies and Tools</h3>
-<p>
+<p align = "center">
   <a></a>
 </p>
 
