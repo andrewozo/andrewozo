@@ -8,9 +8,13 @@
 <hr>
 
 <h3 align = "center">Languages,Technologies and Tools</h3>
-<p align = "center">
-  <a></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,java,nodejs,git,cs,firebase,express" />
+  </a>
 </p>
+
+
 
 
 
