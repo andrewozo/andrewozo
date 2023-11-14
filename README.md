@@ -3,16 +3,41 @@
  <br>
 
  <p> 🌱 I’m currently learning C#</p>
-<p> 📫 You can reach me: https://www.linkedin.com/in/andrewozo/</p>
+ <p> ⚡ Check out my portfolio: https://www.andrewozo.dev </p>
+
+ <div align = "center">
+  <h3> 📫 Connect with me</h3>
+  <a href = "https://www.linkedin.com/in/andrewozo/">
+   <img src = "https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+ </div>
+
 
 <hr>
 
 <h3 align = "center">Languages,Technologies and Tools</h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,java,nodejs,git,cs,firebase,express" />
   </a>
-</p>
+</div>
+
+<div align = "center">
+ <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=andrewozo&theme=transparent&show_icons=true&locale=en&layout=compact" />
+</div>
+
+
+
+
+
+
+<hr>
+
+<div align = "center">
+ <img src = "https://streak-stats.demolab.com?user=andrewozo&theme=transparent&hide_border=true"/>
+</div>
+
+
 
 
 
