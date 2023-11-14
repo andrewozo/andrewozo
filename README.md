@@ -18,7 +18,7 @@
 <h3 align = "center">Languages,Technologies and Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,java,nodejs,git,cs,firebase,express" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,postgres,jest,java,spring,idea,nodejs,git,cs,firebase,express,tailwind,sequelize" />
   </a>
 </div>
 
