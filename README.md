@@ -2,7 +2,7 @@
  
  <br>
 
- <p> 🌱 I’m currently learning C#</p>
+ <p> 🌱 I’m currently learning: C#</p>
  <p> ⚡ Check out my portfolio: https://www.andrewozo.dev </p>
 
  <div align = "center">
