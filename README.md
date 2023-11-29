@@ -6,7 +6,7 @@
  <p> ⚡ Check out my portfolio: https://www.andrewozo.dev </p>
 
  <div align = "center">
-  <h3> 📫 Connect with me</h3>
+  <h3> 📫 Connect with me </h3>
   <a href = "https://www.linkedin.com/in/andrewozo/">
    <img src = "https://skillicons.dev/icons?i=linkedin"/>
   </a>
